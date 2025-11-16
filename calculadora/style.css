@@ -6,11 +6,17 @@
 .container{
     align-items: center;
     text-align: center;
-    background-color: black;
+     background: linear-gradient(red, yellow);
 }
 .fundo{
-    background-color: black;
+    background: linear-gradient(red, yellow);
     height: 100vh;
+}
+.title{
+    color: white;
+    font-size: 50px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .btn{
     width: 80px;
@@ -21,3 +27,20 @@
     border: none;
     cursor: pointer;
 }
+.inp{
+  border-radius: 10px;
+  width: 300px;
+  height: 40px;
+  font-size: 30px;
+}
+.ia{
+    width: 65px;
+    height: 35px;
+    border-radius: 25px;   
+    font-size: 15px;
+    margin-left: 10px;
+    cursor: pointer;
+    color: blue;
+    background-color: yellow;
+}
+
