@@ -9,4 +9,15 @@
     background-color: black;
 }
 .fundo{
+    background-color: black;
+    height: 100vh;
+}
+.btn{
+    width: 80px;
+    height: 80px;
+    font-size: 30px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
 }
