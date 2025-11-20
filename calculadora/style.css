@@ -27,9 +27,6 @@
     border: none;
     cursor: pointer;
 }
-.btn:hover{
-    background-color: lightgray;
-}
 .inp{
   border-radius: 10px;
   width: 300px;
@@ -45,5 +42,9 @@
     cursor: pointer;
     color: blue;
     background-color: yellow;
+    transform: scale(1);
+}
+.ia:hover{
+    transform: scale3d(1.05, 1.05, 1.05);
 }
 
