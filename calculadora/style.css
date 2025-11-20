@@ -27,6 +27,9 @@
     border: none;
     cursor: pointer;
 }
+.btn:hover{
+    background-color: lightgray;
+}
 .inp{
   border-radius: 10px;
   width: 300px;
