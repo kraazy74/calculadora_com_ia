@@ -33,18 +33,3 @@
   height: 40px;
   font-size: 30px;
 }
-.ia{
-    width: 65px;
-    height: 35px;
-    border-radius: 25px;   
-    font-size: 15px;
-    margin-left: 10px;
-    cursor: pointer;
-    color: blue;
-    background-color: yellow;
-    transform: scale(1);
-}
-.ia:hover{
-    transform: scale3d(1.05, 1.05, 1.05);
-}
-
