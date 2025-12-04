@@ -27,3 +27,13 @@
     border: none;
     padding: 0 15px;
 }
+.btn_enviar{
+    width: 45px;
+    height: 35px;
+    border-radius: 45px;
+    border: none;
+    margin-left: 10px;
+    background-color: #6200EE;
+    color: white;
+    cursor: pointer;
+}
